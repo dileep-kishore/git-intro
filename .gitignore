@@ -7,3 +7,6 @@ raw_data/
 # Cache
 __pycache__
 .mypy_cache
+
+# ignore pickled
+pickled*
