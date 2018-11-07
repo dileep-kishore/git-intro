@@ -99,7 +99,7 @@ Type:           type
 ## Contributors
 
 - Dileep Kishore
-- Jacquelyn Turcinovic
+- Howard Fan
 
 
 ## Credits
